@@ -34,7 +34,7 @@ A Chrome extension for real-time chat translation. Built with vanilla JavaScript
 
 **Tech Stack:** JavaScript, Chrome API, Translation API
 
-### [string Media App](https://github.com/Karam-999/string-the-media-app)
+### [STRING.](https://github.com/Karam-999/string-the-media-app)
 A movie and TV show discovery web app featuring dynamic sliders, search functionality, and detailed pages for movies and shows. Built with vanilla JavaScript and powered by The Movie Database (TMDB) API.
 
 **Tech Stack:** JavaScript, TMDB API, CSS3
